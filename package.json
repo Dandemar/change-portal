@@ -17,3 +17,6 @@
     "@vitejs/plugin-react": "^4.0.0"
   }
 }
+git add .
+git commit -m "fix: install tailwindcss and add postcss config"
+git push
